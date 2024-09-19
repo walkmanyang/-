@@ -1,0 +1,9 @@
+#数据路径，不用更改
+#train: /project/train/src_repo/ultralytics0/data/trainval/train.txt
+#val: /project/train/src_repo/ultralytics0/data/trainval/val.txt
+train: /project/train/src_repo/train.txt
+val: /project/train/src_repo/val.txt
+
+#类别名称，根据题目设定
+names: ['crane', 'collapsed_crane', 'tower_crane', 'drilling_rig', 'concrete_mixing_truck', 'excavating_machinery', 'bulldozer', 'roller', 'other_large_lifting_equipment', 'mechanical_arm', 'mechanical_base']
+
